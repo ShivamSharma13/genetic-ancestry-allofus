@@ -4,6 +4,8 @@
 
 **Cite this work:** Sharma, S., Nagar, S.D., Pemu, P. et al. Genetic ancestry and population structure in the All of Us Research Program cohort. Nat Commun 16, 4123 (2025). https://doi.org/10.1038/s41467-025-59351-8. 
 
+**In the workbench:** If you are registered with the All of Us Research Program, you can access detailed & reproducible Jupyter Notebooks through this [Featured Workspace](https://workbench.researchallofus.org/workspaces/aou-rw-20e5a517/geneticancestrydemoproject/data)
+
 ## Overview of scripts and results
 
 ### **Step 1:** Population structure and genetic ancestry in the All of Us Research Program
