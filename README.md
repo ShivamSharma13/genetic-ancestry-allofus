@@ -1,6 +1,6 @@
 ## This repository has scripts used for analyses in the following publication: 
 
-[Genetic ancestry and population structure in the All of Us Research Program cohort](https://www.nature.com/articles/s41467-025-59351-8) in _Nature Communications_ 
+[Genetic ancestry and population structure in the All of Us Research Program cohort](https://www.nature.com/articles/s41467-025-59351-8) in _Nature Communications._ 
 
 **Cite this work:** Sharma, S., Nagar, S.D., Pemu, P. et al. Genetic ancestry and population structure in the All of Us Research Program cohort. Nat Commun 16, 4123 (2025). https://doi.org/10.1038/s41467-025-59351-8. 
 
@@ -25,4 +25,9 @@
 + _03_Geography_plotCollapsed.r_ - Collapses data to 2 or 3 digit summaries.
 
 <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-59351-8/MediaObjects/41467_2025_59351_Fig4_HTML.png?as=webp" width=50% height=50%>
- ![Figure2-AncestryByGeography](https://github.com/user-attachments/assets/82c66017-30aa-410b-a51b-d81504b80b28)
+<img src="https://github.com/user-attachments/assets/82c66017-30aa-410b-a51b-d81504b80b28" width=50% height=50%>
+
+### **Step 4:** Compile electronic health records to identify diseases of interest
++ _04_ElectronicHealthRecords_createPhecodeFiles.r_ - Compiles electronic health records and quantifies diseases against ancestries.
+
+<img src="https://github.com/user-attachments/assets/3177ea2e-02ea-4a09-b54c-e8a43e4f7578" width=50% height=50%>
